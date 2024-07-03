@@ -9,11 +9,7 @@ Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados 
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html) (*17)
 
 ## Diagrama de Classes do projeto
-<div style="text-align: center;">
-
-![](https://github.com/PabloHoties/javaPrintWriterPedido/assets/33355184/0fc14a5f-4414-48da-9907-770770ad977d)
-
-</div>
+![](https://github.com/PabloHoties/javaPrintWriterPedido/assets/33355184/91ae0de5-6c14-4659-8e6f-d8255a8a6a8e)
 
 ## Funcionamento
 A interação do usuário com o projeto é através da classe JOptionPane, com o usuário digitando nas caixas de diálogo. Na classe ``Main.java`` é chamado o método "obterDados" de ``PedidoController.java``.
