@@ -12,7 +12,7 @@ public class Main {
 			PedidoController pedidoController = new PedidoController();
 			pedidoController.obterDados();
 
-			JOptionPane.showMessageDialog(null, "PEDIDO CADASTRADO COM SUCESSO");
+			JOptionPane.showMessageDialog(null, "PEDIDO CADASTRADO COM SUCESSO.");
 		} catch (Exception e) {
 			JOptionPane.showMessageDialog(null, "ERRO: " + e.getMessage());
 		}

@@ -1,1 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?><pedido><id>f0109cf7-b602-4a59-b71b-70af60f88469</id><valor>780.0</valor><cliente><id>fd64ba7a-09e3-4442-80e6-4de655761457</id><nome>Jean Lima</nome><cpf>12345678900</cpf></cliente><pagamento><id>f81f7150-15f3-4d51-a074-0e090b662b86</id><numeroCartao>3368129818953854</numeroCartao><parcelas>6</parcelas></pagamento></pedido>
